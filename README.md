@@ -1,3 +1,6 @@
+![DATA IS POWER](https://github.com/iexcelwithdata/iexcelwithdata/tree/main/assets)
+
+
 ### Hi there! 👋 I'm Kuku Faruq Olabiyi 
 🚀 Data Analyst | Electrical & Electronics Engineer 
 
