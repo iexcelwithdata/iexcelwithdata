@@ -24,7 +24,7 @@
 ### 📌 Featured Projects
 - **[DataFest Africa Datathon Project](https://github.com/iexcelwithdata/Datathon-Project
 )**
-- **[Chinook Music Store Analysis](link-to-repo)**
+- **[Chinook Music Store Analysis](https://github.com/iexcelwithdata/Chinook-Project)**
 
 
 ---
