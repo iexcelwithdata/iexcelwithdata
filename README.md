@@ -1,4 +1,5 @@
-![DATA IS POWER](https://github.com/iexcelwithdata/iexcelwithdata/blob/main/assets/Metal%20Poster%20Hand%20Thunder%20Bolt.jpg)
+![DATA IS POWER]
+(https://github.com/iexcelwithdata/iexcelwithdata/blob/main/assets/Metal%20Poster%20Hand%20Thunder%20Bolt.jpg)
 
 
 ### Hi there! 👋 I'm Kuku Faruq Olabiyi 
